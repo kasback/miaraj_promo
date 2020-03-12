@@ -3,7 +3,7 @@
 {
     "name": "Partner extend",
     "version": "1.1",
-    "depends": ['base'],
+    "depends": ['base', 'payment'],
     "author": "Nacer",
     'website': '',
     "category": "",

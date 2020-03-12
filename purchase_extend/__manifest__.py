@@ -3,7 +3,7 @@
 {
     "name": "Purchase extend",
     "version": "1.1",
-    "depends": ['base', 'purchase'],
+    "depends": ['base', 'purchase', 'stock'],
     "author": "Nacer",
     'website': '',
     "category": "",

@@ -3,7 +3,7 @@
 {
     "name": "Invoice extend",
     "version": "1.1",
-    "depends": ['base', 'account', 'purchase', 'product'],
+    "depends": ['base', 'purchase', 'account', 'product', 'stock', 'snailmail_account'],
     "author": "Nacer",
     'website': '',
     "category": "",
